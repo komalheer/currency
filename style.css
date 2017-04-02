@@ -8,12 +8,16 @@
 	margin:5%;
 	text-align:center
 }
+li
+{
+	list-style-type:none;
+}
 
 p{
 	font-size:18px;
 }
 
-#display{
+#display, #display2{
 	font-size:36px;
 }
 
