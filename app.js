@@ -14,9 +14,6 @@ const amount= document.getElementById("amount").value;
 fetch("https://api.fixer.io/latest?base="+base+"&symbols="+con)
   .then((res) => res.json())
   .then((data) =>{console.log(data.rates[con])
-	 
-	 
-	 
 	  var ans=amount*data.rates[con]+" "+ con 
 	  document.getElementById("display").innerHTML="The value is: "+ ans;
  
