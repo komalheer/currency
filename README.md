@@ -1,3 +1,3 @@
-This is my currency app. I tried using elint but I think I did something wrong in this an it was not working in this. But then it was 
+This is my currency app. I tried using elint but I think I did something wrong in this an it was not working in this. But then it 
 
-working perfectly fine in weather app.
+was working perfectly fine in weather app.
